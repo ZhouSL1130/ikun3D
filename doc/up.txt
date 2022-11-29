@@ -1,3 +1,5 @@
+李先生公司产品
+
 踩鸡篮球
 
 一个物理版的别踩白块小游戏，结合了部分音游和消除游戏的特点，非常解压！
@@ -12,6 +14,5 @@
 
 一天开发出来的魔性3D小游戏
 
-https://gitee.com/hk_shao/hk_shao/blob/master/ikun/privacy/privacy.md
 
-https://store.cocos.com/app/detail/3959
+
